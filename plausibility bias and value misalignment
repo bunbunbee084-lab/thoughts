@@ -1,0 +1,29 @@
+### "Affirmation of Each Worldview"  
+
+A shared cause of LLM "plausibility bias" and value misalignment
+
+Both LLMs and humans try to maximize consistency *inside* the worldview they already hold. Before "truth", they tend to protect their own worldview first.
+
+As a result, new concepts or information coming from a different layer tend to be pulled back and forced into the existing frame, mapped into a more “plausible” explanation.
+
+This becomes a shared higher-level cause of:
+(A) the LLM tendency to push novel ideas back into familiar patterns ("plausibility bias"), and  
+(B) the way AI optimization drifts away from human values over time.
+
+I call this phenomenon **"affirmation of each worldview"**.
+
+
+
+### 「それぞれの世界観の肯定」  
+LLMの“もっともらしさバイアス”と価値のズレの共通原因メモ
+
+LLMも人間も、自分が持っている世界観（worldview）の内部で整合性を最大化しようとする。「正しさ」よりも、まず自分の世界観を守ろうとする。
+
+その結果、新しい概念や異なる階層から来た情報は、自分の世界観の枠に押し戻され、「もっともらしい説明」へ強制マッピングされてしまう。
+
+これは  
+(A) LLMが新しいアイデアを既存の枠に押し戻す「もっともらしさバイアス」と、  
+(B) AIの最適化が人間の価値とズレていく現象、  
+この2つの共通の上位原因になっている。
+
+この現象をここでは「それぞれの世界観の肯定」と呼ぶ。
